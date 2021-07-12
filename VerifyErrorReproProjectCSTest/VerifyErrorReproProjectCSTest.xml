@@ -9,6 +9,14 @@
             Test of a Basic Item
             </summary>
         </member>
+        <member name="P:VerifyErrorReproProjectCSTest.BasicItemTest.Settings">
+            <summary>
+            Gets or sets the settings.
+            </summary>
+            <value>
+            The settings.
+            </value>
+        </member>
         <member name="P:VerifyErrorReproProjectCSTest.BasicItemTest.Output">
             <summary>
             Gets or sets the output.
@@ -27,6 +35,12 @@
             <summary>
             Tests the of basic item.
             </summary>
+        </member>
+        <member name="M:VerifyErrorReproProjectCSTest.BasicItemTest.VerifyObject(System.Object)">
+            <summary>
+            Verifies the object.
+            </summary>
+            <param name="Item">The item.</param>
         </member>
     </members>
 </doc>
