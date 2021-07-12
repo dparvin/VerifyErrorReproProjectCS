@@ -1,0 +1,9 @@
+{
+  Name: TestItem,
+  Type: 55,
+  Setting: {
+    root: {
+      TestItem: null
+    }
+  }
+}
