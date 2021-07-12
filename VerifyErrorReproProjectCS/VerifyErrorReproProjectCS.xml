@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>VerifyErrorReproProjectCS</name>
+    </assembly>
+    <members>
+        <member name="T:VerifyErrorReproProjectCS.BasicItem">
+            <summary>
+            Basic Item
+            </summary>
+        </member>
+        <member name="M:VerifyErrorReproProjectCS.BasicItem.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:VerifyErrorReproProjectCS.BasicItem"/> class.
+            </summary>
+        </member>
+        <member name="P:VerifyErrorReproProjectCS.BasicItem.Name">
+            <summary>
+            Gets or sets the name.
+            </summary>
+            <value>
+            The name.
+            </value>
+        </member>
+        <member name="P:VerifyErrorReproProjectCS.BasicItem.Type">
+            <summary>
+            Gets or sets the type.
+            </summary>
+            <value>
+            The type.
+            </value>
+        </member>
+        <member name="P:VerifyErrorReproProjectCS.BasicItem.Setting">
+            <summary>
+            Gets or sets the setting.
+            </summary>
+            <value>
+            The setting.
+            </value>
+        </member>
+        <member name="M:VerifyErrorReproProjectCS.BasicItem.ToString">
+            <summary>
+            Converts to string.
+            </summary>
+            <returns>
+            A <see cref="T:System.String" /> that represents this instance.
+            </returns>
+        </member>
+        <member name="T:VerifyErrorReproProjectCS.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:VerifyErrorReproProjectCS.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:VerifyErrorReproProjectCS.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:VerifyErrorReproProjectCS.Properties.Resources.AppDisplayName">
+            <summary>
+              Looks up a localized string similar to wts.ItemName.
+            </summary>
+        </member>
+        <member name="P:VerifyErrorReproProjectCS.Properties.Resources.ShellGoBackButton">
+            <summary>
+              Looks up a localized string similar to ShellGoBackButton.
+            </summary>
+        </member>
+        <member name="P:VerifyErrorReproProjectCS.Properties.Resources.MainPageTitle">
+            <summary>
+              Looks up a localized string similar to Main.
+            </summary>
+        </member>
+    </members>
+</doc>
