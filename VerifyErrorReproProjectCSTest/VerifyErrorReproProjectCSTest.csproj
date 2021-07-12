@@ -20,8 +20,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Verify" Version="11.15.1" />
-    <PackageReference Include="Verify.Xunit" Version="11.15.1" />
+    <PackageReference Include="Verify" Version="11.20.1" />
+    <PackageReference Include="Verify.Xunit" Version="11.20.1" />
     <PackageReference Include="xunit" Version="2.4.1" />
     <PackageReference Include="xunit.analyzers" Version="0.10.0" />
     <PackageReference Include="xunit.assert" Version="2.4.1" />
