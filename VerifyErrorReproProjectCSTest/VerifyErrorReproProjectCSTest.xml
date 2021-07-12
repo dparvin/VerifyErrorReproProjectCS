@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>VerifyErrorReproProjectCSTest</name>
+    </assembly>
+    <members>
+        <member name="T:VerifyErrorReproProjectCSTest.BasicItemTest">
+            <summary>
+            Test of a Basic Item
+            </summary>
+        </member>
+        <member name="P:VerifyErrorReproProjectCSTest.BasicItemTest.Output">
+            <summary>
+            Gets or sets the output.
+            </summary>
+            <value>
+            The output.
+            </value>
+        </member>
+        <member name="M:VerifyErrorReproProjectCSTest.BasicItemTest.#ctor(Xunit.Abstractions.ITestOutputHelper)">
+            <summary>
+            Initializes a new instance of the <see cref="T:VerifyErrorReproProjectCSTest.BasicItemTest"/> class.
+            </summary>
+            <param name="outputHelper">The output helper.</param>
+        </member>
+        <member name="M:VerifyErrorReproProjectCSTest.BasicItemTest.TestOfBasicItem">
+            <summary>
+            Tests the of basic item.
+            </summary>
+        </member>
+    </members>
+</doc>

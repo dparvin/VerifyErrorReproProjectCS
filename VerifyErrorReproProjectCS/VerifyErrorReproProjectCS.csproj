@@ -10,4 +10,8 @@
     <WarningsAsErrors />
     <DocumentationFile>C:\Projects\Repos\VerifyErrorReproProjectCS\VerifyErrorReproProjectCS\VerifyErrorReproProjectCS.xml</DocumentationFile>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <NoWarn />
+    <WarningsAsErrors />
+  </PropertyGroup>
 </Project>
